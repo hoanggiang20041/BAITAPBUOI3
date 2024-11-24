@@ -1,0 +1,10 @@
+C:\Users\giang\source\repos\demonhanvien\demonhanvien\bin\Debug\demonhanvien.exe.config
+C:\Users\giang\source\repos\demonhanvien\demonhanvien\bin\Debug\demonhanvien.exe
+C:\Users\giang\source\repos\demonhanvien\demonhanvien\bin\Debug\demonhanvien.pdb
+C:\Users\giang\source\repos\demonhanvien\demonhanvien\obj\Debug\demonhanvien.csproj.AssemblyReference.cache
+C:\Users\giang\source\repos\demonhanvien\demonhanvien\obj\Debug\demonhanvien.Form1.resources
+C:\Users\giang\source\repos\demonhanvien\demonhanvien\obj\Debug\demonhanvien.Properties.Resources.resources
+C:\Users\giang\source\repos\demonhanvien\demonhanvien\obj\Debug\demonhanvien.csproj.GenerateResource.cache
+C:\Users\giang\source\repos\demonhanvien\demonhanvien\obj\Debug\demonhanvien.csproj.CoreCompileInputs.cache
+C:\Users\giang\source\repos\demonhanvien\demonhanvien\obj\Debug\demonhanvien.exe
+C:\Users\giang\source\repos\demonhanvien\demonhanvien\obj\Debug\demonhanvien.pdb
